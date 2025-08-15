@@ -18,7 +18,7 @@ Displays a custom layout, music, animations, and any images when joining your se
 2. Copy the entire folder to the `resources` directory of your FiveM server.  
    Example:
    ```plaintext
-   resources/[local]/myloadingscreen
+   resources/[local]/lxfs_loadingscreen
 3. Open your server.cfg and add
    ```plaintext
    start lxfs_loadingscreen
